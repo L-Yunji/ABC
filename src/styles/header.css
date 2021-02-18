@@ -1,0 +1,12 @@
+.nav-item {
+    height: 70px;
+    width: '100%';
+    background: '#eeeee';
+}
+
+.nav-link {
+    color: black;
+    font-weight: bold;
+    justify-content: space-between;
+    align-items: center;
+}
