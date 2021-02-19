@@ -1,9 +1,9 @@
 # ABC
 
-# 프로젝트 설명
+# BokJak
 
 # installation
-Either through cloning with git or by using npm (the recommended way):
+Either through cloning with git or by using npm (the recommended way):<br/>
 We use google maps api.
 `npm install react-google-maps --save`
 `npm install react-geocode --save`
@@ -15,7 +15,7 @@ import React from "react";
 ```
 
 ### Google Maps API
-In order to run the end-to-end tests, you'll need to supply your API key via an environment variable.
+In order to run the end-to-end tests, you'll need to supply your API key via an environment variable.<br/>
 Inpout your api key to {MY_API_KEY}.
 
 ```
