@@ -42,7 +42,7 @@ Finally, our goal is to reduce face-to-face contact with diners and restaurant s
 # Why *[Bok Jak]*
 - McKinsey & Company's survey shows that Corona 19 has reduced meals in restaurants by 49%.
 
-![image description](image/Changes in Korean food consumption pattern after COVID-19.png)
+![image description](image/Changes in Korean food consumption pattern after COVID-19.jpg)
 
 - According to data from the Gyeonggi Provincial Statistics Office, the most important factor in selecting restaurants after Covid19 is the density of customers (28%).
 
