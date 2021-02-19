@@ -46,9 +46,8 @@ pip install googlemaps
 ```
 
 ### Google Maps Geocoding API
-```
 For testing, you'll need to supply your API key for geocoding and add it in recommender_model/data_refining.py.
-```
+
 
 # Usage
 Here are some screenshots of 'Bokjak' service.
