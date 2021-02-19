@@ -41,25 +41,44 @@ Finally, our goal is to reduce face-to-face contact with diners and restaurant s
 
 # Why *[Bok Jak]*
 - McKinsey & Company's survey shows that Corona 19 has reduced meals in restaurants by 49%.
-![image description](file:///C:/Users/user/Desktop/Changes%20in%20Korean%20food%20consumption%20pattern%20after%20COVID-19.png)
 
-# Built With
+![Github](image/Changes in Korean food consumption pattern after COVID-19.png)
+
+- According to data from the Gyeonggi Provincial Statistics Office, the most important factor in selecting restaurants after Covid19 is the density of customers (28%).
+
+![Github](image/What to consider when choosing a restaurant after COVID-19.png)
+
+- According to the Korea Institute for Food and Rural Affairs, the 2020 Food Industry Business Index has continued to fall since Covid19, the lowest at 59.33% in the fourth quarter of 2020.
+
+![Github](image/Food industry economy flow.png)
+
+- According to the Ministry of Agriculture, Food and Rural Affairs, the proportion of restaurant businesses has increased since the Covid19 outbreak, reaching 95.2% in the fourth quarter of 2020.
+
+- The same survey also showed that restaurant businesses saw their decline to 59.2% in the fourth quarter of 2020.
+
+![Github](image/코로나19 발생 이후 산업단지 외식업 매출 감소 추이.png)
+
+- In these surveys, Even if the delivery service is used, it is difficult for restaurants to recover their sales, and consumers regard the density of customers as an important factor in selecting restaurants.
+- So we create **[Bok Jak]**, which reduces face-to-face contact in the restaurant as much as possible.
+
+# Solution
+## Built With
 * Scikit-learn
 * Google Maps API
 
-# Installation
+## Installation
 Either through cloning with git or by using npm (the recommended way):<br/>
 We use google maps api.
 `npm install react-google-maps --save`
 `npm install react-geocode --save`
 
-# Quick Test
-### React
+## Quick Test
+#### React
 ```
 import React from "react";
 ```
 
-### Google Maps API
+#### Google Maps API
 In order to run the end-to-end tests, you'll need to supply your API key via an environment variable.<br/>
 Inpout your api key to {MY_API_KEY}.
 
@@ -77,7 +96,7 @@ and
 ```npm start```
 
 
-### Python
+#### Python
 ```
 pip install scikit-learn
 pip install pandas
@@ -86,12 +105,36 @@ pip install scipy
 pip install googlemaps
 ```
 
-### Google Maps Geocoding API
+#### Google Maps Geocoding API
 For testing, you'll need to supply your API key for geocoding and add it in recommender_model/data_refining.py.
 
+# How to use
+## 👩‍🏫 Tutorial (여기에 유저 입장에서 앱을 사용하는 화면을 캡쳐해서 넣고 설명을 넣을 것)
 
-# Usage
-Here are some screenshots of 'Bokjak' service.
+# About Team ABC
+https://github.com/Soyeon-ErinLee/Dobby-AI
+About us, Dobby-AI
+이 링크의 어바웃 어스처럼 우리에 대한 설명을 한 페이지로 만들어서 넣는건?
+
+*Team ABC* is made up of Brilliant business logists, professional developers, and experienced designers.
+After Covid19, we had an uneasy meal with precious people.
+This kind of problem is also experienced by other people who value safety with Covid19.
+We have a professional career history in each field.
+
+|Photo|Name|Role|
+|--|--|--|
+|![image description](image/한정은.jpg)|Han Jeung Eun|Team Leader-Business Logistics|
+|![image description](image/조규민.jpg)|조규민|Business Logistics|
+|![image description](image/오채은.jpg)|오채은|Design/Front-end/Interface|
+|![image description](image/이윤지.jpg)|이윤지|Engineering/Logic/Network/Data Science/Algorithm|
+|![image description](image/이송.jpg)|Lee Song|Data/Database/Data Science/Algorithm|
+
+
+This experience allows *Team ABC* to make up for their shortcomings and create synergy effects.
+*Team ABC* can provide safer and freer meals to people through our synergy effect.
+
+<!--Quote-->
+> Keep distance, stay together, [Bok Jak]!
 
 # License
 MIT
