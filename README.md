@@ -1,4 +1,9 @@
-# ABC
+# HELLO, ABC(AI Beyond COVID19) - *[BOK JAK]*
+
+```
+"hello, we are Bok Jak, we solve your problem of safe and happy meal."
+```
+For 2021 KPMG Ideation Challenge
 
 # BokJak
 
