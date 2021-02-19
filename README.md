@@ -1,7 +1,7 @@
-# HELLO, ABC(AI Beyond COVID19) - *[BOK JAK]*
+# HELLO, ABC(AI Beyond COVID19) - *[Bok Jak]*
 
 ```
-"hello, we are Bok Jak, we solve your problem of safe and happy meal."
+"hello, we are [Bok Jak], we solve your problem of safe and happy meal."
 ```
 For 2021 KPMG Ideation Challenge
 
