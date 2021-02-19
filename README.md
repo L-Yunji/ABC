@@ -2,7 +2,11 @@
 
 # BokJak
 
-# installation
+# Built With
+* Scikit-learn
+
+
+# Installation
 Either through cloning with git or by using npm (the recommended way):<br/>
 We use google maps api.
 `npm install react-google-maps --save`
@@ -45,6 +49,9 @@ pip install googlemaps
 ```
 For testing, you'll need to supply your API key for geocoding and add it in recommender_model/data_refining.py.
 ```
+
+# Usage
+Here are some screenshots of 'Bokjak' service.
 
 # License
 MIT
