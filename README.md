@@ -66,7 +66,7 @@ Finally, our goal is to reduce face-to-face contact with diners and restaurant s
 - In these surveys, Even if the delivery service is used, it is difficult for restaurants to recover their sales, and consumers regard the density of customers as an important factor in selecting restaurants.
 - So we create **[Bok Jak]**, which reduces face-to-face contact in the restaurant as much as possible.
 
-# Solution
+# *[Bok Jak]* Solution
 ## Built With
 * Scikit-learn
 * Google Maps API
@@ -113,7 +113,7 @@ pip install googlemaps
 #### Google Maps Geocoding API
 For testing, you'll need to supply your API key for geocoding and add it in recommender_model/data_refining.py.
 
-# How to use
+# How to use *[Bok Jak]*
 ## 👩‍🏫 Tutorial (여기에 유저 입장에서 앱을 사용하는 화면을 캡쳐해서 넣고 설명을 넣을 것)
 
 # About Team ABC
