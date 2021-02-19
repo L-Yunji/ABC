@@ -22,13 +22,13 @@ We provide real-time density information for you and provides recommendation ser
 Finally, our goal is to reduce face-to-face contact with diners and restaurant staff to create a non-face-to-face meal and provide safety and freedom to individuals, restaurant owners and companys.
 
 # what is your problem?
-## 🙋 person :
+## 🙋 Person :
 * I want to eat a safe meal in a place with fewer people. 
 * I visited several restaurants in person to find a restaurant with few people.
 * It takes a lot of time to find a restaurant with fewer people.
 * I always use the map app to use the visitor trend service in the restaurant, but not accurate.
 
-## 👩‍🍳 restaurant owners :
+## 👩‍🍳 Restaurant owners :
 * Sales plunge to Covid19. 
 * There are online food services such as delivery, but I don't capture the same sales as before.
 * Inventory should be thrown away because there are few customers.
@@ -132,7 +132,7 @@ This experience allows *Team ABC* to make up for their shortcomings and create s
 |--|--|--|--|
 |![image description](image/한정은.jpg)|Han Jeung Eun|Team Leader-Business Logistics|2020.04~ 이화여자대학교 창업지원 프로그램을 통한 ACOF창업 / 2019.03~12 이화여자대학교 미래설계 장학금으로 인문학과 비즈니스, IT를 결합한 교육방안 제안 / 2019.07 신한은행청장상 국토부 실시간 교통데이터 활용 공모전 |
 |![image description](image/조규민.jpg)|조규민|Business Logistics|2020.05 우수상 스마트미이더 창업 아이디어 공모전 / 2019.06 금메달 2019 World Invention Innovation Contest / 2018.10 우수상 2018년도 추계학술대회 및 캡스톤경진대회 / 2016.12 장려상 2016 지식재산 융합강좌 경진대회 (한국발명진흥 회장)|
-|![image description](image/오채은.jpg)|오채은|Design/Front-end/Interface|2020.12 보건복지부 장관상 제4회 정부혁신 끝장 개발대회 / 2020.12 한화 드림인 블록체인 온라인 해커톤 1차리그 수료 / 2020.09 더블슬래쉬 앱 웹 제작 동아리 / 2020.07 피로그래밍 웹프로그래밍 동아리 / 2020.11 서울특별시 공공보건의료재단 코로나 19 시민 백신 연구소 참여|
+|![image description](image/오채은.jpg)|Oh Chae Eun|Design/Front-end/Interface|2020.12 보건복지부 장관상 제4회 정부혁신 끝장 개발대회 / 2020.12 한화 드림인 블록체인 온라인 해커톤 1차리그 수료 / 2020.09 더블슬래쉬 앱 웹 제작 동아리 / 2020.07 피로그래밍 웹프로그래밍 동아리 / 2020.11 서울특별시 공공보건의료재단 코로나 19 시민 백신 연구소 참여|
 |![image description](image/이윤지.jpg)|이윤지|Engineering/Logic/Network/Data Science/Algorithm|2021.02~ 이화여자대학교 도전학기 '썸마켓'팀 대표 및 개발자 / 2020.12 한화 드림인 블록체인 온라인 해커톤 1차리그 수료 / 2020.12 장려상 NH디지털혁신캠퍼스챌린지 온라인 해커톤 / 2020.09~ 이화여자대학교 블록체인학회 기획 및 개발자 / 2020.09 한국정보화진흥원장상 제3회 데이터걸스데이|
 |![image description](image/이송.jpg)|Lee Song|Data/Database/Data Science/Algorithm|2020.12~ 이화여자대학교 SW융합창의설계 교재개발 공동집필 / 2020.10~ Ewha Data Analysis Club / 2020.09~ Google Developer Student Club / 2019.05~12 SAP 본사(독일) IT Services 인턴 / 2018.09 사무총장상(대상) UNWTO 세계청년 도시관광 총회|
 
