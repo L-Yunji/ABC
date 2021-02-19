@@ -46,17 +46,17 @@ Finally, our goal is to reduce face-to-face contact with diners and restaurant s
 
 - According to data from the Gyeonggi Provincial Statistics Office, the most important factor in selecting restaurants after Covid19 is the density of customers (28%).
 
-![image description](image/What to consider when choosing a restaurant after COVID-19.png)
+![image description](image/What to consider.jpg)
 
 - According to the Korea Institute for Food and Rural Affairs, the 2020 Food Industry Business Index has continued to fall since Covid19, the lowest at 59.33% in the fourth quarter of 2020.
 
-![image description](image/Food industry economy flow.png)
+![image description](image/Food industry economy flow.jpg)
 
 - According to the Ministry of Agriculture, Food and Rural Affairs, the proportion of restaurant businesses has increased since the Covid19 outbreak, reaching 95.2% in the fourth quarter of 2020.
 
 - The same survey also showed that restaurant businesses saw their decline to 59.2% in the fourth quarter of 2020.
 
-![image description](image/코로나19 발생 이후 산업단지 외식업 매출 감소 추이.png)
+![image description](image/코로나19 발생 이후 산업단지 외식업 매출 감소 추이.jpg)
 
 - In these surveys, Even if the delivery service is used, it is difficult for restaurants to recover their sales, and consumers regard the density of customers as an important factor in selecting restaurants.
 - So we create **[Bok Jak]**, which reduces face-to-face contact in the restaurant as much as possible.
