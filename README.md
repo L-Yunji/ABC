@@ -117,9 +117,6 @@ For testing, you'll need to supply your API key for geocoding and add it in reco
 ## 👩‍🏫 Tutorial (여기에 유저 입장에서 앱을 사용하는 화면을 캡쳐해서 넣고 설명을 넣을 것)
 
 # About Team ABC
-https://github.com/Soyeon-ErinLee/Dobby-AI
-About us, Dobby-AI
-이 링크의 어바웃 어스처럼 우리에 대한 설명을 한 페이지로 만들어서 넣는건?
 
 *Team ABC* is made up of Brilliant business logists, professional developers, and experienced designers.
 After Covid19, we had an uneasy meal with precious people.
