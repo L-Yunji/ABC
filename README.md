@@ -125,7 +125,7 @@ pip install googlemaps
 For testing, you'll need to supply your API key for geocoding and add it in recommender_model/data_refining.py.
 
 # How to use *[Bok Jak]*
-## 👩‍🏫 Tutorial (여기에 유저 입장에서 앱을 사용하는 화면을 캡쳐해서 넣고 설명을 넣을 것)
+## 👩‍🏫 Tutorial
 
 # About Team ABC
 
