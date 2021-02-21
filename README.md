@@ -77,11 +77,22 @@ We use google maps api.
 `npm install react-google-maps --save`
 `npm install react-geocode --save`
 
+and we use react-router
+
+`npm install react-router`
+`npm install react-router-dom`
+
+last, we use bootstrap ui.
+
+`npm install bootstrap`
+
+
 ## Quick Test
 #### React
 ```
 import React from "react";
 ```
+
 
 #### Google Maps API
 In order to run the end-to-end tests, you'll need to supply your API key via an environment variable.<br/>
