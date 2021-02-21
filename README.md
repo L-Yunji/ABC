@@ -40,29 +40,11 @@ Finally, our goal is to reduce face-to-face contact with diners and restaurant s
 * Employees are looking for restaurants with fewer people, so they don't start working even after lunch.
 
 # Why *[Bok Jak]*
-|Chart 1|
-|--|
-|![image description](image/Changes in Korean foodconsumption pattern after COVID-19.jpg)|
 - McKinsey & Company's survey shows that Corona 19 has reduced meals in restaurants by 49%.
-
-|Chart 2|
-|--|
-|![image description](image/What to consider.jpg)|
 - According to data from the Gyeonggi Provincial Statistics Office, the most important factor in selecting restaurants after Covid19 is the density of customers (28%).
-
-|Chart 3|
-|--|
-|![image description](image/Food industry economy flow.jpg)|
 - According to the Korea Institute for Food and Rural Affairs, the 2020 Food Industry Business Index has continued to fall since Covid19, the lowest at 59.33% in the fourth quarter of 2020.
-
-|Chart 4|
-|--|
-|![image description](image/코로나19 발생 이후 산업단지 외식업 매출 감소 추이.jpg)|
-
 - According to the Ministry of Agriculture, Food and Rural Affairs, the proportion of restaurant businesses has increased since the Covid19 outbreak, reaching 95.2% in the fourth quarter of 2020.
-
 - The same survey also showed that restaurant businesses saw their decline to 59.2% in the fourth quarter of 2020.
-
 - In these surveys, Even if the delivery service is used, it is difficult for restaurants to recover their sales, and consumers regard the density of customers as an important factor in selecting restaurants.
 - So we create **[Bok Jak]**, which reduces face-to-face contact in the restaurant as much as possible.
 
