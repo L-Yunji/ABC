@@ -51,13 +51,16 @@ def get_recommend_rest_list(rest_title, rest_cate, top=30):
     
     #Convert parameter inputs
     if rest_cate == '밀집도':
-        cate_val = 'rest_density'
-    elif rest_cate == '평점':
-        cate_val = 'rest_name'
-    else:
-        cate_val = 'recommend'
+      cate_val = 'rest_density'
+      asc_val = True
+    if rest_cate == '평점':
+      cate_val = 'rest_rating'
+      asc_val = False
+    if rest_cate == '추천':
+      cate_val = 'recommend'
+      asc_val = False
     #Make into a dataframe, sort, and return the result
-    result = rest_df.iloc[sim_index].sort_values(cate_val, ascending=True)[:10]
+    result = rest_df.iloc[sim_index].sort_values(cate_val, ascending=asc_val)[:10]
     #result = rest_df.iloc[sim_index]
     return result
 
